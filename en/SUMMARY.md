@@ -1,6 +1,6 @@
 # Summary
 
-* [Home](Home.md)
+* [Home](../Home.md)
 
 ---
 
