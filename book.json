@@ -1,0 +1,6 @@
+{
+  "plugins": ["-sharing", "-fontsettings", "search", "lunr"],
+  "styles": {
+    "website": "styles/website.css"
+  }
+}

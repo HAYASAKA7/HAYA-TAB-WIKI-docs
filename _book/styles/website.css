@@ -1,0 +1,12 @@
+.gitbook-link {
+    display: none !important;
+}
+
+.book-summary .language-picker {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+:lang(zh-hant), :lang(ja) {
+    font-family: "PingFang TC", "Hiragino Sans", sans-serif;
+}
